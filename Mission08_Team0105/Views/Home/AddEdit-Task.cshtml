@@ -1,0 +1,36 @@
+@* Name of the model *@
+@* *@
+@* @model  *@
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<body>
+<h2>Task Entry Form</h2>
+<form method="post">
+    <label for="task">Task (Required):</label>
+    <input type="text" id="task" name="task" required><br><br>
+
+    <label for="due_date">Due Date:</label>
+    <input type="date" id="due_date" name="due_date"><br><br>
+
+    <label for="quadrant">Quadrant (Required):</label>
+    <input type="text" id="quadrant" name="quadrant" required><br><br>
+
+    <label for="category">Category:</label>
+    <select id="category" name="category">
+        <option value="Home">Home</option>
+        <option value="School">School</option>
+        <option value="Work">Work</option>
+        <option value="Church">Church</option>
+    </select><br><br>
+
+    <label for="completed">Completed:</label>
+    <input type="checkbox" id="completed" name="completed" value="true"><br><br>
+
+    <button type="submit">Submit Task</button>
+</form>
+</body>
