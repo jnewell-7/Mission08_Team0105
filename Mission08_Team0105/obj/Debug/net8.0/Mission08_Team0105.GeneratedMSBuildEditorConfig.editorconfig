@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/danielwait/RiderProjects/Mission08_Team0105/Mission08_Team0105
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/danielwait/RiderProjects/Mission08_Team0105/Mission08_Team0105/Views/Home/AddEdit-Task.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BZGRFZGl0LVRhc2suY3NodG1s
+[/Users/danielwait/RiderProjects/Mission08_Team0105/Mission08_Team0105/Views/Home/AddEditTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BZGRFZGl0VGFzay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/danielwait/RiderProjects/Mission08_Team0105/Mission08_Team0105/Views/Home/Index.cshtml]
