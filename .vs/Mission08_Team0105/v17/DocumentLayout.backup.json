@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\models\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\models\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\models\\eftaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\models\\eftaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|c:\\users\\brynn\\source\\repos\\mission08_team0105\\mission08_team0105\\controllers\\itaskrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A5CAD-7EC5-4C25-915D-311DCDCFE6CE}|Mission08_Team0105\\Mission08_Team0105.csproj|solutionrelative:mission08_team0105\\controllers\\itaskrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mission08_Team0105\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T18:51:22.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Mission08_Team0105\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T18:51:20.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Mission08_Team0105\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T18:51:19.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITaskRepsoitory.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Controllers\\ITaskRepsoitory.cs",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Controllers\\ITaskRepsoitory.cs",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Controllers\\ITaskRepsoitory.cs",
+              "RelativeToolTip": "Mission08_Team0105\\Controllers\\ITaskRepsoitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:49:47.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\Category.cs",
+              "RelativeToolTip": "Mission08_Team0105\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:42:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Program.cs",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Program.cs",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Program.cs",
+              "RelativeToolTip": "Mission08_Team0105\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:23:20.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mission08_Team0105\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:47:53.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\appsettings.json",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\appsettings.json",
+              "RelativeToolTip": "Mission08_Team0105\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T17:42:54.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\Task.cs",
+              "RelativeToolTip": "Mission08_Team0105\\Models\\Task.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:30:51.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Models\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\TaskContext.cs",
+              "RelativeToolTip": "Mission08_Team0105\\Models\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:14:41.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\EFTaskRepository.cs",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Models\\EFTaskRepository.cs",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\EFTaskRepository.cs",
+              "RelativeToolTip": "Mission08_Team0105\\Models\\EFTaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:11:30.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Mission08_Team0105\\Models\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\brynn\\source\\repos\\Mission08_Team0105\\Mission08_Team0105\\Models\\ITaskRepository.cs",
+              "RelativeToolTip": "Mission08_Team0105\\Models\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:07:42.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
