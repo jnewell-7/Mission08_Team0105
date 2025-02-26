@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/danielwait/.nuget/packages/": {}
+    "/Users/jacks/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielwait/RiderProjects/Mission08_Team0105/Mission08_Team0105/Mission08_Team0105.csproj",
+      "projectUniqueName": "/Users/jacks/RiderProjects/Mission08_Team0105/Mission08_Team0105/Mission08_Team0105.csproj",
       "projectName": "Mission08_Team0105",
-      "projectPath": "/Users/danielwait/RiderProjects/Mission08_Team0105/Mission08_Team0105/Mission08_Team0105.csproj",
-      "packagesPath": "/Users/danielwait/.nuget/packages/",
-      "outputPath": "/Users/danielwait/RiderProjects/Mission08_Team0105/Mission08_Team0105/obj/",
+      "projectPath": "/Users/jacks/RiderProjects/Mission08_Team0105/Mission08_Team0105/Mission08_Team0105.csproj",
+      "packagesPath": "/Users/jacks/.nuget/packages/",
+      "outputPath": "/Users/jacks/RiderProjects/Mission08_Team0105/Mission08_Team0105/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/danielwait/.nuget/NuGet/NuGet.Config"
+        "/Users/jacks/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
