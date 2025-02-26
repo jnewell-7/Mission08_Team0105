@@ -12,16 +12,16 @@ public class HomeController : Controller
         return View();
     }
     [HttpGet]
-    public IActionResult AddEdit-Task()
+    public IActionResult AddEditTask()
     {
         return View();
     }
     
-    [HttpPost]
-    public IActionResult AddEdit-Task()
-    {
-        
-    }
+    // [HttpPost]
+    // public IActionResult AddEdit-Task()
+    // {
+    //     return View();
+    // }
     
     
 }
