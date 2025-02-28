@@ -26,8 +26,8 @@ public class HomeController : Controller
     [HttpGet]
     public IActionResult AddEditTask()
     {
-        ViewBag.Quadrants = _context.Quadrants
-            .OrderBy(x=> x.QuadrantName)
+        ViewBag.Categories = _context.Categories
+            .OrderBy(x=> x.CategoryName)
             .ToList();
         
         return View("AddEditTask", new Task());
@@ -45,8 +45,8 @@ public class HomeController : Controller
         }
         else
         {
-            ViewBag.Quadrants = _context.Quadrants
-                .OrderBy(x=> x.QuadrantName)
+            ViewBag.Categories = _context.Categories
+                .OrderBy(x=> x.CategoryName)
                 .ToList();
             
             return View(response); 
@@ -59,8 +59,8 @@ public class HomeController : Controller
         var recordToEdit = _context.Tasks
             .Single(x => x.TaskId == id);
         
-        ViewBag.Quadrants = _context.Quadrants
-            .OrderBy(x=> x.QuadrantName)
+        ViewBag.Quadrants = _context.Categories
+            .OrderBy(x=> x.CategoryName)
             .ToList();
         
         return View("AddEditTask", recordToEdit);
@@ -72,7 +72,34 @@ public class HomeController : Controller
         _context.Update(updatedInfo);
         _context.SaveChanges(); 
         
-        return RedirectToAction("TBD");
+        return RedirectToAction("Quadrants");
+    }
+    
+    public IActionResult Quadrants()
+    {
+        var taskList = _context.Tasks
+            .Include(x=>x.Category)
+            .ToList();
+        
+        return View(taskList);
+    }
+    
+    [HttpGet]
+    public IActionResult Delete(int id)
+    {
+        var recordToDelete = _context.Tasks
+            .Single(x => x.TaskId == id);
+        
+        return View(recordToDelete);
+    }
+
+    [HttpPost]
+    public IActionResult Delete(Task record)
+    {
+        _context.Tasks.Remove(record);
+        _context.SaveChanges();
+        
+        return RedirectToAction("Quadrants");
     }
     
     
