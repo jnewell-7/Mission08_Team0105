@@ -18,8 +18,8 @@ namespace Mission08_Team0105.Models
         
         public bool? Completed { get; set; }
 
-        [ForeignKey("CategoryID")]
-        public int CategoryID { get; set; }
+        [ForeignKey("CategoryId")]
+        public int CategoryId { get; set; }
         
         public virtual Category? Category { get; set; }
 
