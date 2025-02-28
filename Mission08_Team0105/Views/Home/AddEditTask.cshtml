@@ -17,7 +17,12 @@
     <input type="date" id="due_date" name="due_date"><br><br>
 
     <label for="quadrant">Quadrant (Required):</label>
-    <input type="text" id="quadrant" name="quadrant" required><br><br>
+    <select id="quadrant" name="quadrant" required>
+        <option value="ImportantUrgent">Important/ Urgent</option>
+        <option value="ImportantNotUrgent">Important / Not Urgent</option>
+        <option value="NotImportantUrgent">Not Important / Urgent</option>
+        <option value="NotImportantNotUrgent">Not Important / Not Urgent</option>
+    </select><br><br>
 
     <label for="category">Category:</label>
     <select id="category" name="category">
