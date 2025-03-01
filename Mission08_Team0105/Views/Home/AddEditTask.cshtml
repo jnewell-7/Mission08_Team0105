@@ -1,42 +1,44 @@
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using Mission08_Team0105.Models
 @model Mission08_Team0105.Models.Task
 
-@{
-    ViewData["Title"] = "Enter a Movie";
-}
+
+<div class="container" >
+    <h2>Task Entry Form</h2>
+    <form method="post">
+        <input type="hidden" asp-for="TaskId" />
+        <label asp-for="TaskName">Task (Required):</label>
+        <input type="text" asp-for="TaskName" required><br><br>
+
+        <label asp-for="DueDate">Due Date:</label>
+        <input type="date" asp-for="DueDate"><br><br>
+
+        <label asp-for="QuadrantName">Quadrant (Required):</label>
+        <select asp-for="QuadrantName">
+            <option value="Important/Urgent">Important/Urgent</option>
+            <option value="Important/NotUrgent">Important/Not Urgent</option>
+            <option value="NotImportant/Urgent">Not Important/Urgent</option>
+            <option value="NotImportant/NotUrgent">Not Important/Not Urgent</option>
+        </select><br><br>
 
 
-<body>
-<h2>Task Entry Form</h2>
-<form method="post">
-    <input type="hidden" asp-for="TaskId" />
-    <label asp-for="TaskName">Task (Required):</label>
-    <input type="text" asp-for="TaskName" required><br><br>
+        <label asp-for="CategoryId">Category:</label>
+        <select asp-for="CategoryId">
+            <option value="">Select a Category</option>
+            @foreach (Category c in ViewBag.Categories)
+            {
+                <option value="@c.CategoryId">@c.CategoryName</option>
+            }
+        </select><br><br>
 
-    <label asp-for="DueDate">Due Date:</label>
-    <input type="date" asp-for="DueDate"><br><br>
+        <label asp-for="Completed">Completed:</label>
+        <input type="checkbox" asp-for="Completed" value="true"><br><br>
 
-    <label for="quadrant">Quadrant (Required):</label>
-    <select id="quadrant" name="quadrant" required>
-        <option value="ImportantUrgent">Important/ Urgent</option>
-        <option value="ImportantNotUrgent">Important / Not Urgent</option>
-        <option value="NotImportantUrgent">Not Important / Urgent</option>
-        <option value="NotImportantNotUrgent">Not Important / Not Urgent</option>
-    </select><br><br>
-    <input type="hidden" asp-for="QuadrantId"/>
+        <button type="submit">Submit Task</button>
+        <div asp-validation-summary="All"></div>
 
+    </form>
+</div>
 
 
-    <label asp-for="Category">Category:</label>
-    <select asp-for="Category">
-        <option value="Home">Home</option>
-        <option value="School">School</option>
-        <option value="Work">Work</option>
-        <option value="Church">Church</option>
-    </select><br><br>
 
-    <label asp-for="Completed">Completed:</label>
-    <input type="checkbox" asp-for="Completed" value="true"><br><br>
-
-    <button type="submit">Submit Task</button>
-</form>
-</body>
