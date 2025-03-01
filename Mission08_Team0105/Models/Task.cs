@@ -13,10 +13,10 @@ namespace Mission08_Team0105.Models
         
         public string? DueDate { get; set; }
         
-        public int QuadrantId { get; set; }
-        public int QuadrantName { get; set; }
+        [Required]
+        public string QuadrantName { get; set; }
         
-        public bool? Completed { get; set; }
+        public bool Completed { get; set; }
 
         [ForeignKey("CategoryId")]
         public int CategoryId { get; set; }

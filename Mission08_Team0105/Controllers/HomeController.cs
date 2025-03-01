@@ -39,9 +39,9 @@ public class HomeController : Controller
         if (ModelState.IsValid)
         {
             _context.Tasks.Add(response);
-            _context.SaveChanges();
+                _context.SaveChanges();
                     
-            return View("AddEditTask", response);
+                return View("Confirmation", response);
         }
         else
         {

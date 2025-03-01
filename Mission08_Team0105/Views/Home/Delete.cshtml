@@ -1,0 +1,9 @@
+@model Mission08_Team0105.Models.Task
+
+<h2>Are you sure you want to delete: @Model.TaskName?</h2>
+<form method="post">
+    <input type="hidden" asp-for="TaskId"/>
+    
+    <a class="btn btn-info" asp-controller="Home" asp-action="Quadrants">Cancel</a>
+    <button class="btn btn-danger" type="submit">Delete</button>
+</form>
