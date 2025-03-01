@@ -102,5 +102,16 @@ public class HomeController : Controller
         return RedirectToAction("Quadrants");
     }
     
-    
+    [HttpPost]
+    public IActionResult CompleteTask(int id)
+    {
+        var taskToComplete = _context.Tasks.SingleOrDefault(t => t.TaskId == id);
+        if (taskToComplete != null)
+        {
+            taskToComplete.Completed = true;
+            _context.SaveChanges();
+        }
+
+        return RedirectToAction("Quadrants");  // Redirect back to Quadrants
+    }
 }

@@ -2565,19 +2565,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/jacks/.nuget/packages/": {}
+    "/Users/chasehindmarsh/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jacks/RiderProjects/Mission08_Team0105/Mission08_Team0105/Mission08_Team0105.csproj",
+      "projectUniqueName": "/Users/chasehindmarsh/RiderProjects/Mission08_Team0105/Mission08_Team0105/Mission08_Team0105.csproj",
       "projectName": "Mission08_Team0105",
-      "projectPath": "/Users/jacks/RiderProjects/Mission08_Team0105/Mission08_Team0105/Mission08_Team0105.csproj",
-      "packagesPath": "/Users/jacks/.nuget/packages/",
-      "outputPath": "/Users/jacks/RiderProjects/Mission08_Team0105/Mission08_Team0105/obj/",
+      "projectPath": "/Users/chasehindmarsh/RiderProjects/Mission08_Team0105/Mission08_Team0105/Mission08_Team0105.csproj",
+      "packagesPath": "/Users/chasehindmarsh/.nuget/packages/",
+      "outputPath": "/Users/chasehindmarsh/RiderProjects/Mission08_Team0105/Mission08_Team0105/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jacks/.nuget/NuGet/NuGet.Config"
+        "/Users/chasehindmarsh/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2646,7 +2646,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/chasehindmarsh/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
