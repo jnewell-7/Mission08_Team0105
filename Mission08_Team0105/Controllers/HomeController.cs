@@ -79,6 +79,7 @@ public class HomeController : Controller
     {
         var taskList = _context.Tasks
             .Include(x=>x.Category)
+            .Where(x=>!x.Completed)
             .ToList();
         
         return View(taskList);
