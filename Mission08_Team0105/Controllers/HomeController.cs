@@ -57,9 +57,9 @@ public class HomeController : Controller
     public IActionResult Edit(int id)
     {
         var recordToEdit = _context.Tasks
-            .Single(x => x.TaskId == id);
+            .SingleOrDefault(x => x.TaskId == id);
         
-        ViewBag.Quadrants = _context.Categories
+        ViewBag.Categories = _context.Categories
             .OrderBy(x=> x.CategoryName)
             .ToList();
         
